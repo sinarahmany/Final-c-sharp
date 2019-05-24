@@ -1,0 +1,10 @@
+C:\Users\Sina\source\repos\final-24May\final-24May\bin\Debug\final-24May.exe.config
+C:\Users\Sina\source\repos\final-24May\final-24May\bin\Debug\final-24May.exe
+C:\Users\Sina\source\repos\final-24May\final-24May\bin\Debug\final-24May.pdb
+C:\Users\Sina\source\repos\final-24May\final-24May\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sina\source\repos\final-24May\final-24May\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sina\source\repos\final-24May\final-24May\obj\Debug\final-24May.csprojAssemblyReference.cache
+C:\Users\Sina\source\repos\final-24May\final-24May\obj\Debug\final-24May.csproj.CoreCompileInputs.cache
+C:\Users\Sina\source\repos\final-24May\final-24May\obj\Debug\final-24May.csproj.CopyComplete
+C:\Users\Sina\source\repos\final-24May\final-24May\obj\Debug\final-24May.exe
+C:\Users\Sina\source\repos\final-24May\final-24May\obj\Debug\final-24May.pdb
